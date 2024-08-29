@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types';
-function SearchBar({handleCheckBox}) {
+function SearchBar({handleCheckBox, handleSearch}) {
 
     return (
         <form className="p-4">
